@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+tfenv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset (remove this line if you WANT dataset on GitHub)
+dataset/

@@ -1,7 +1,3 @@
-Perfect 👍
-You did everything correctly, it just became messy because of multiple Python versions + file names.
-Here is the CLEAN, FINAL, CORRECT STEP-BY-STEP COMMAND LIST you asked for.
-
 👉 Follow these steps exactly, in order
 👉 You can even copy–paste them line by line.
 
